@@ -1,1 +1,1 @@
-print('u are a random person')
+print('u are a normal person')
